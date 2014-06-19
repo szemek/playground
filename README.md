@@ -3,7 +3,11 @@
 Hej,
 przygotowałem dla Ciebie 4 zadania.
 
-Sklonuj sobie repozytorium: `git clone git@github.com:szemek/playground.git` a następnie otwórz cały projekt w Sublime Text.
+Na początek:
+- sklonuj sobie repozytorium: `git clone git@github.com:szemek/playground.git`
+- wejdź do katalogu: `cd playground`
+- usuń dotychczasową historię gita: `rm -rf .git`
+- otwórz cały projekt w Sublime Text
 
 Projekt składa się z 4 katalogów z zadaniami i jednego katalogu `jasmine`, który zawiera bibliotekę do testów w JavaScript.
 
@@ -38,3 +42,7 @@ W pliku `spec/main_spec.js` znajdują się przypadki testowe, które sprawdzają
 
 
 Powodzenia! :octocat:
+
+### Github
+
+Podczas rozwiązywania rób commity i wysyłaj kod na swoje repozytorium na Githubie
