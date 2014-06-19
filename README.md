@@ -7,6 +7,7 @@ Na początek:
 - sklonuj sobie repozytorium: `git clone git@github.com:szemek/playground.git`
 - wejdź do katalogu: `cd playground`
 - usuń dotychczasową historię gita: `rm -rf .git`
+- zacznij historię gita na nowo: `git init; git add .; git commit -m "Initial commit"`
 - otwórz cały projekt w Sublime Text
 
 Projekt składa się z 4 katalogów z zadaniami i jednego katalogu `jasmine`, który zawiera bibliotekę do testów w JavaScript.
