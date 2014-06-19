@@ -41,6 +41,22 @@ Na początku wszystkie testy nie przechodzą i są oznaczone na czerwono.
 
 W pliku `spec/main_spec.js` znajdują się przypadki testowe, które sprawdzają kod zapisany w `src/main.js`.
 
+#### 01-add
+
+W pliku `src/main.js` jest funkcja `add`. Popraw ją, żeby testy przeszły.
+
+#### 02-multiply
+
+Napisz funkcję `multiply`, która zwróci wynik mnożenia dla podanych dwóch argumentów.
+
+#### 03-sum
+
+Napisz funkcję `sum`, która obliczy sumę liczb w tablicy. Dla pustej tablicy suma wynosi 0.
+
+#### 04-even
+
+Napisz funkcję `even`, która dla zadanego argumentu `n` zwróci tablicę z liczbami parzystymi (podzielnymi przez 2) mniejszymi bądź równymi `n`.
+
 
 Powodzenia! :octocat:
 
