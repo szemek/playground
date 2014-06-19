@@ -32,7 +32,7 @@ Otwórz plik `index.html` w przeglądarce, aby uruchomić testy.
 
 Na początku wszystkie testy nie przechodzą i są oznaczone na czerwono.
 
-Twoim zadaniem jest poprawić plik `src/main.js` tak, aby testy przeszły i zostały oznaczone na zielono.
+**Twoim zadaniem jest poprawić plik `src/main.js` tak, aby testy przeszły i zostały oznaczone na zielono.**
 
 W pliku `spec/main_spec.js` znajdują się przypadki testowe, które sprawdzają kod zapisany w `src/main.js`.
 
