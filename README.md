@@ -58,8 +58,4 @@ Napisz funkcję `sum`, która obliczy sumę liczb w tablicy. Dla pustej tablicy 
 Napisz funkcję `even`, która dla zadanego argumentu `n` zwróci tablicę z liczbami parzystymi (podzielnymi przez 2) mniejszymi bądź równymi `n`.
 
 
-Powodzenia! :octocat:
 
-### Github
-
-Podczas rozwiązywania rób commity i wysyłaj kod na swoje repozytorium na Githubie
