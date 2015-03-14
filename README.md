@@ -39,3 +39,10 @@ W pliku `index.html` stwórzmy szkielet strony HTML. Dodajmy pole tekstowe i prz
     </body>
     </html>
 
+## 3. JavaScript
+
+Załączmy skrypty do naszej strony:
+
+    <script type="text/javascript" src="javascripts/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="javascripts/handlebars-v3.0.0.js"></script>
+    <script type="text/javascript" src="javascripts/search.js"></script>
