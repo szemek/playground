@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 80px;
+  background: rgb(66, 209, 109);
+}
+
+header #search, header #submit {
+  margin: 25px;
+  height: 30px;
+  border: 1px solid rgb(6, 149, 49);
+  float: left;
+}
+
+header #search {
+  margin-right: 0;
+  width: 300px;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+header #submit {
+  margin-left: 0;
+  background: white;
+}
+
+#content {
+  margin-top: 80px;
+}
