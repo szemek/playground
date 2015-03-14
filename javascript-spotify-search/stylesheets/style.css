@@ -33,6 +33,7 @@ header #search {
 header #submit {
   margin-left: 0;
   background: white;
+  cursor: pointer;
 }
 
 #content {
