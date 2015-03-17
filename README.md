@@ -1,3 +1,7 @@
+# Cel
+
+Napisanie prostej wyszukiwarki wykonawców/piosenek/albumów w oparciu o Spotify API.
+
 # 1. Struktura katalogu
 
 Stwórz katalog `javascript-spotify-search` z następującą strukturą:
